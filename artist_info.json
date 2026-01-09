@@ -1,0 +1,37 @@
+{
+  "Edgar_Degas": {
+    "genre": ["Impressionism"],
+    "history": "A French Impressionist artist famous for his paintings, sculptures, prints, and drawings, particularly of dancers.",
+    "nationality": "French",
+    "years": "1834–1917",
+    "famous_works": ["The Dance Class", "L'Absinthe", "Little Dancer of Fourteen Years"]
+  },
+  "Francisco_Goya": {
+    "genre": ["Romanticism"],
+    "history": "A Spanish romantic painter and printmaker, considered one of the last of the Old Masters and one of the first of the moderns.",
+    "nationality": "Spanish",
+    "years": "1746–1828",
+    "famous_works": ["The Third of May 1808", "The Naked Maja", "Saturn Devouring His Son"]
+  },
+  "Pablo_Picasso": {
+    "genre": ["Cubism", "Surrealism", "Modern Art"],
+    "history": "A Spanish painter and sculptor who co-founded the Cubist movement and revolutionized modern art.",
+    "nationality": "Spanish",
+    "years": "1881–1973",
+    "famous_works": ["Guernica", "Les Demoiselles d'Avignon", "The Weeping Woman"]
+  },
+  "Rembrandt": {
+    "genre": ["Dutch Golden Age", "Baroque"],
+    "history": "A Dutch painter and printmaker, widely regarded as one of the greatest visual artists in history.",
+    "nationality": "Dutch",
+    "years": "1606–1669",
+    "famous_works": ["The Night Watch", "The Anatomy Lesson of Dr. Nicolaes Tulp", "Self-Portrait with Two Circles"]
+  },
+  "Vincent_van_Gogh": {
+    "genre": ["Post-Impressionism", "Expressionism"],
+    "history": "A Dutch Post-Impressionist painter who created over 2,100 artworks and profoundly influenced modern art.",
+    "nationality": "Dutch",
+    "years": "1853–1890",
+    "famous_works": ["The Starry Night", "Sunflowers", "Cafe Terrace at Night"]
+  }
+}
